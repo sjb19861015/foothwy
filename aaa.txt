@@ -7,7 +7,11 @@
  */
 declare(strict_types=1); // 如果指定了函数的类型，那么会严格进行检查。
 
+<<<<<<< HEAD
 // Laravel1212
+=======
+// Laravel
+>>>>>>> f07912101cfa559405e1d197d47ac67d5f963db6
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Validator;
